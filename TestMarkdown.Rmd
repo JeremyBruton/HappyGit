@@ -35,5 +35,3 @@ mean(cars$speed)
 ```
 
 ##Changes
-
-##Line 39
