@@ -35,3 +35,11 @@ mean(cars$speed)
 ```
 
 ##Changes
+
+
+##Branch A code 
+
+```{r}
+median(cars$speed)
+```
+
